@@ -1,0 +1,8 @@
+Customer Report - L Boone
+L Boone
+customer-boone.rpt
+1-8,Tran Date
+11-21,Transaction
+64-69,$Labor
+71-75,$Total
+

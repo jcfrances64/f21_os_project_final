@@ -1,0 +1,7 @@
+Customer Report: A Brown
+A Brown
+customer-brown.rpt
+1-8,Tran Date
+32-39,Customer
+71-75,Total
+

@@ -1,0 +1,7 @@
+Sales
+Purchas
+sales.rpt
+11-21,Transaction
+32-39,Customer
+52-56,$Part
+

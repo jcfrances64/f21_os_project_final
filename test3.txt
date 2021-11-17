@@ -1,0 +1,7 @@
+Flat Tire Sales
+Fix Flat
+flattire.rpt
+11-21,Transaction
+64-69,$Labor
+52-56,$Part
+

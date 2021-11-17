@@ -52,7 +52,9 @@ class ReportGenerator extends Thread {
 			
 			String line;
 
-			while(!((line = report.nextLine()).isEmpty())) {
+			// while(!((line = report.nextLine()).isEmpty())) {
+			while(report.hasNext()) {
+				line = report.nextLine();
 
 				Scanner lineScanner = new Scanner(line);
 				lineScanner.useDelimiter("-|,|\n");
